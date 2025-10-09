@@ -7,7 +7,7 @@ I'm a Full Stack Web Developer ready to help you gain complete control over your
 - 💬 Ask me about anything [here](https://github.com/hilalmuzaki/hilalmuzaki/issues)
 
 ### Skills
-![My Skills](https://skillicons.dev/icons?i=laravel,php,html,css,js,tailwind,alpinejs,figma,photoshop,illustrator&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=laravel,php,html,css,js,tailwind,alpinejs,figma,photoshop,illustrator&theme=dark&perline=5)
 
 ### Most Used Languages
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hilalmuzaki&layout=compact&theme=dark)

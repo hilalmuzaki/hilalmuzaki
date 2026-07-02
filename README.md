@@ -13,7 +13,7 @@ I'm a Full Stack Web Developer ready to help you gain complete control over your
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hilalmuzaki&layout=compact&theme=dark)
 
 ### Connect with me
-[![hilal8muzaki](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/muzaki_hilal) [![Hilal Muzaki](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hilalmuzaki) [![Hilal Muzaki](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1238403525403349022)
+[![hilal8muzaki](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/hilal8muzaki) [![Hilal Muzaki](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hilalmuzaki) [![Hilal Muzaki](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1238403525403349022)
 
 ### You can contact me on : 
 - Email : [hilalmwork@gmail.com](mailto:hilalmwork@gmail.com)

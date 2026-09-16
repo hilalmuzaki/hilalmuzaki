@@ -11,8 +11,9 @@ In addition, i can also be the solution for your company profile website develop
 - 💬 Ask me about anything [here](https://github.com/hilalmuzaki/hilalmuzaki/issues)
 
 ## What i can do?
-- Create a SaaS website product integrated with AI & Cron Job
-- Create a company or personal profile website.
+- Build design system of software and user experience.
+- Build SaaS website product integrated with AI & Cron Job and Build company profile website.
+- Build company or personal profile website.
 
 ## Software & Tech Stack skills
 ![The Skills](https://skillicons.dev/icons?i=figma,laravel,wordpress&theme=dark&perline=4)

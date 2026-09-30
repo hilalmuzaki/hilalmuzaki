@@ -2,8 +2,6 @@
 
 I'm the solution for your Full-Stack Web Development needs. I can build a website integrated with AI models that can handle complex tasks within your site efficiently and effectively for your business.
 
-test
-
 I'm a Full-Stack Web Developer who can provide the solution for your website development needs. I can build a website integrated with AI models that can handle complex tasks within your site efficiently and effectively for your business.
 
 In addition, i can also be the solution for your company profile website development.

@@ -16,7 +16,7 @@ In addition, i can also be the solution for your company profile website develop
 - Build company or personal profile website.
 
 ## Software & Tech Stack skills
-![The Skills](https://skillicons.dev/icons?i=figma,laravel,wordpress&theme=dark&perline=4)
+![The Skills](https://skillicons.dev/icons?i=laravel,react,figma,wordpress&theme=dark&perline=4)
 
 ## Connect with me
 [![hilalmuzaki](https://skillicons.dev/icons?i=github)](https://www.github.com/hilalmuzaki) [![Hilal Muzaki](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hilalmuzaki) [![hilal8muzaki](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/hilal8muzaki) [![Hilal Muzaki](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1238403525403349022)
